@@ -64,12 +64,13 @@ javac *.java
  ```
  ---
 
-## Connect:
+## 📬 Contact
 
-[MAIL](suggalasaicharan789@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/saicharansuggala/)
-[GitHub](https://github.com/CharanSuggala26)
-[Portfolio](https://my-portfolio-lovat-six-79.vercel.app/)
+- 📧 [Mail](mailto:suggalasaicharan789@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saicharansuggala/)
+- 🐙 [GitHub](https://github.com/CharanSuggala26)
+- 🌐 [Portfolio](https://my-portfolio-lovat-six-79.vercel.app/)
+
 
 
 
