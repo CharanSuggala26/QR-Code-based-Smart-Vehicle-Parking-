@@ -2,7 +2,7 @@
 
 public class ParkingTicket{
 
-	//public String ParkingTime;
+	//public String ParkingTime
 	public String enterDate;
 	public String enterTime;
 	private long CardNumber ;

@@ -1,3 +1,4 @@
+ //Payment Class for payment
  public class Payment{
 
     float HourAmount = 30;

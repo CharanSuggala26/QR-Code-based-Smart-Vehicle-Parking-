@@ -1,3 +1,5 @@
+ 
+ //Scan Class for scan ticket
  public class ScanTicket{
 
     public int cheaknumber(String inputnumber, String storenumber){
