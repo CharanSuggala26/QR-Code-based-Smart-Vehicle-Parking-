@@ -24,5 +24,52 @@ The **QR Code-based Smart Vehicle Parking Management System** is a cutting-edge 
 - **ZXing Library** for QR code generation & scanning
 
 ---
+## 📦 Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/QR-Code-based-Smart-Vehicle-Parking.git
+cd QR-Code-based-Smart-Vehicle-Parking
+```
+
+### 2. Set Up MySQL Database
+### Create a new database:
+```bash
+    CREATE DATABASE vehicle_parking_system;
+```
+
+### 3. Configure Java Code
+Update your MySQL connection credentials in the code (typically in a class like DBConnection.java):
+```bash
+    String url = "jdbc:mysql://localhost:3306/vehicle_parking_system";
+    String username = "root";
+    String password = "your_password";
+```
+### 4. Add ZXing Library
+
+### 5. Run the Application
+## ▶️ How to Compile and Run
+
+###  Compile All Java Files
+
+Open a terminal in the project directory and run:
+
+```bash
+javac *.java
+```
+### Run the Program:
+ ```bash
+    java ScanTicket
+ ```
+ ---
+
+## Connect:
+
+MAIL:suggalasaicharan789@gmail.com
+LinkedIn:
+GitHub:
+Portfolio:
+
 
 
