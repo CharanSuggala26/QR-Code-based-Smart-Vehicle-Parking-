@@ -36,15 +36,15 @@ cd QR-Code-based-Smart-Vehicle-Parking
 ### 2. Set Up MySQL Database
 ### Create a new database:
 ```bash
-    CREATE DATABASE vehicle_parking_system;
+CREATE DATABASE vehicle_parking_system;
 ```
 
 ### 3. Configure Java Code
 Update your MySQL connection credentials in the code (typically in a class like DBConnection.java):
 ```bash
-    String url = "jdbc:mysql://localhost:3306/vehicle_parking_system";
-    String username = "root";
-    String password = "your_password";
+String url = "jdbc:mysql://localhost:3306/vehicle_parking_system";
+String username = "root";
+String password = "your_password";
 ```
 ### 4. Add ZXing Library
 
@@ -66,10 +66,10 @@ javac *.java
 
 ## Connect:
 
-MAIL:suggalasaicharan789@gmail.com
-LinkedIn:
-GitHub:
-Portfolio:
+[MAIL](suggalasaicharan789@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/saicharansuggala/)
+[GitHub](https://github.com/CharanSuggala26)
+[Portfolio](https://my-portfolio-lovat-six-79.vercel.app/)
 
 
 
