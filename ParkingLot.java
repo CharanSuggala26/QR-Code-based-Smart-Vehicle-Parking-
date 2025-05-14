@@ -24,7 +24,7 @@ public class ParkingLot{
 
 			if (size == 5) {
 				System.out.print("\033\143");
-				// get car information from car class
+				// get car info from car class
 				String carcolor = randominfo.CarColor();
 				String numberplate = randominfo.Numberplate();
 				String cartype = randominfo.CarType();
@@ -34,7 +34,7 @@ public class ParkingLot{
 				parkingticket.getAssignedCar().setCarColor(carcolor);
 				parkingticket.getAssignedCar().setCarType(cartype);
 
-				// get spot from parkingSpot class
+				// get spot from the parkingSpot class
 				int spotnum = parkingspot.SpotNum();
 				if(spotnum == 0){
 					System.out.println("Sorry, spot is not available.");

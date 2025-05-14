@@ -1,6 +1,6 @@
  public class Car{
 	public String NumberPlate;
-	public String CarColor; //red, yellow, green, etc..
+	public String CarColor; //red, yellow, green, etc.. colors of the cars
 	public String CarType;
 
 	public String getNumberPlate(){
