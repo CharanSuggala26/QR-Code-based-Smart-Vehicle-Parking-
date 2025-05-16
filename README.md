@@ -2,7 +2,6 @@
 
 The **QR Code-based Smart Vehicle Parking Management System** is a cutting-edge solution designed to revolutionize how parking is managed in urban environments. Built using **Java** and **MySQL**, the system leverages **QR code technology** to offer a seamless, secure, and efficient approach to parking, enhancing user convenience and optimizing space utilization.
 
----
 
 ## 🚀 Features
 
@@ -14,7 +13,7 @@ The **QR Code-based Smart Vehicle Parking Management System** is a cutting-edge 
 - ✅ Admin dashboard for system control
 - ✅ Time-based billing (optional/if implemented)
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -23,7 +22,6 @@ The **QR Code-based Smart Vehicle Parking Management System** is a cutting-edge 
 - **JDBC** for database connectivity
 - **ZXing Library** for QR code generation & scanning
 
----
 ## 📦 Setup Instructions
 
 ### 1. Clone the Repository
@@ -62,7 +60,7 @@ javac *.java
  ```bash
     java ScanTicket
  ```
- ---
+
 
 ## 📬 Contact
 
